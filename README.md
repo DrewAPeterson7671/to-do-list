@@ -11,7 +11,10 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 ## Behavior Driven Development
 
 | Behavior | Input Example | Output Example |
-| - | - | - |
+| create a to do list where items can be added | do laundry | add to list |
+| indicate the task is done | laundry done | laundry checked off |
+| use jQuery to remove that completed task | laundry done | laundry removed from list |
+
 
 ## Github Link
 {[Github link to project](https://drewapeterson7671.github.io/week-1-code-review/index.html)}
